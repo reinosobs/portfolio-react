@@ -13,7 +13,7 @@ export default function Slidebar() {
           <img
             src={require("../assets/images/photo.webp")}
             alt="Sergio Reinoso"
-            className="border-solid cursor-pointer  border-[8px] border-stone-600 min-h-fit mx-auto  max-w-[190px]"
+            className="rounded-full border-solid cursor-pointer  border-[8px] border-yellow-600 min-h-fit mx-auto  max-w-[190px]"
           />
           <h3 className="text-white name py-4 font-medium ">
             Sergio Reinoso
@@ -21,8 +21,8 @@ export default function Slidebar() {
         </div>
         <p
           onClick={() => setSelect(0)}
-          className={`cursor-pointer hover:text-blue-600 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
-            select === 0 ? "text-blue-600 " : ""
+          className={`cursor-pointer hover:text-yellow-500 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
+            select === 0 ? "text-yellow-500 " : ""
           }`}
           data-aos="slide-right"
           data-aos-delay="200"
@@ -31,8 +31,8 @@ export default function Slidebar() {
         </p>
         <p
           onClick={() => setSelect(1)}
-          className={`cursor-pointer hover:text-blue-600 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
-            select === 1 ? "text-blue-600 " : ""
+          className={`cursor-pointer hover:text-yellow-500 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
+            select === 1 ? "text-yellow-500 " : ""
           }`}
           data-aos-delay="600"
           data-aos="slide-left"
@@ -41,8 +41,8 @@ export default function Slidebar() {
         </p>
         <p
           onClick={() => setSelect(2)}
-          className={`cursor-pointer hover:text-blue-600 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
-            select === 2 ? "text-blue-600 " : ""
+          className={`cursor-pointer hover:text-yellow-500 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
+            select === 2 ? "text-yellow-500 " : ""
           }`}
           data-aos="slide-right"
           data-aos-delay="1000"
@@ -51,8 +51,8 @@ export default function Slidebar() {
         </p>
         <p
           onClick={() => setSelect(3)}
-          className={`cursor-pointer hover:text-blue-600 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
-            select === 3 ? "text-blue-600 " : ""
+          className={`cursor-pointer hover:text-yellow-500 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
+            select === 3 ? "text-yellow-500 " : ""
           }`}
           data-aos="slide-left"
           data-aos-delay="1400"
@@ -61,8 +61,8 @@ export default function Slidebar() {
         </p>
         <p
           onClick={() => setSelect(4)}
-          className={`cursor-pointer hover:text-blue-600 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
-            select === 4 ? "text-blue-600 " : ""
+          className={`cursor-pointer hover:text-yellow-500 hover:-translate-y-0.5 hover:text-xl transition hover:transition ${
+            select === 4 ? "text-yellow-500 " : ""
           }`}
           data-aos="slide-right"
           data-aos-delay="1800"

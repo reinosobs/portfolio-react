@@ -30,22 +30,25 @@ export default function About() {
             className="pt-5 leading-7 text-slate-900 text-justify"
             data-aos={"fade-left"}
           >
-            I love listening music, play football and playing games. I am
-            currently Full Stack Developer. I am {getDate()}{" "}
-            years old. I love exploring new technologies. 
-            Knowledge can fill a room, but takes up no space
+            Graduated with a degree in Computer Engineering from Rey Juan Carlos
+            University, where I have obtained the capacity and the appropriate
+            knowledge to make them compatible in a field-oriented to technology and
+            computer science. I am an agile, outgoing, ambitious person, eager to learn
+            and improve. Currently, I am  Full Stack Developer. 
           </p>
           <p
-            className="text-justify leading-7 text-slate-900"
-            data-aos={"fade-right"}
+            className="pt-5 leading-7 text-slate-900 text-justify"
+            data-aos={"fade-left"}
           >
-            I am an expert on Vuejs, PHP, MySql, TypeScript, Java and some more technologies. I am
-            also looking to collaborate in open-source projects.
+            I love listening music, play football and playing games. Also exploring new technologies
+            and improve my skills.Between my skills, I have a lot of experience with Vuejs, PHP, MySql, TypeScript, Java
+            and some more technologies. I am also looking to collaborate in open-source projects.
+            My slogan is <span className="text-yellow-600">"Knowledge can fill a room, but takes up no space"</span>
           </p>
         </div>
 
         <div
-          class="relative flex-auto w-32   sm:rounded-lg  pl-4"
+          className="relative flex-auto w-32   sm:rounded-lg  pl-4"
           data-aos={"slide-left"}
         >
           {/* <img
