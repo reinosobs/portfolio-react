@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.69f0356f.css",
+    "main.js": "/portfolio-react/static/js/main.8ebe680e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Sergio Resume.pdf": "/portfolio-react/static/media/Sergio Resume.7810bca428a2b8a6824b.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/portfolio-react/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/portfolio-react/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/portfolio-react/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/portfolio-react/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/portfolio-react/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/photo.webp": "/portfolio-react/static/media/photo.6cfc3a70d7f69aa2ee9f.webp",
+    "static/media/gotosite.webp": "/portfolio-react/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/portfolio-react/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/portfolio-react/index.html",
+    "main.69f0356f.css.map": "/portfolio-react/static/css/main.69f0356f.css.map",
+    "main.8ebe680e.js.map": "/portfolio-react/static/js/main.8ebe680e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f0356f.css",
+    "static/js/main.8ebe680e.js"
+  ]
+}
