@@ -204,7 +204,7 @@ export default function Contact() {
               </div>
               <div
                 onClick={() =>
-                  window.open("https://www.instagram.com/sergio.r_b_", "_blank")
+                  window.open("https://www.instagram.com", "_blank")
                 }
               >
                 {" "}
